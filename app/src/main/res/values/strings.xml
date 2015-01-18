@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Forecast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="weekforecast">
+        <item>Lunes - soleado - 19-30</item>
+        <item>Martes - soleado - 18-28</item>
+        <item>Miércoles - nublado - 15-25</item>
+        <item>Jueves - lluvia - 15-20</item>
+        <item>Viernes - nublado - 15-20</item>
+        <item>Sábado - soleado - 18-24</item>
+        <item>Domingo - soleado - 19-30</item>
+    </string-array>
+
+</resources>
